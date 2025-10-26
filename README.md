@@ -28,9 +28,7 @@ This project aims to support early detection and response to dengue outbreaks by
 
 ```
 📦 apd_denv_model_dashboard
-├── 📂 data
 ├── 📂 pages
-├── 📂 models
 ├── 📂 utils
 ├── app.py
 └── README.md
