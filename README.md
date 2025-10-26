@@ -56,7 +56,7 @@ Contributions are welcome! Feel free to fork the repository, submit issues, or o
 
 ## 📚 Resources
 
-- [GitHub Repository](https://github.com/meteorsurfer/apd_denv_model_dashboard)
+- [GitHub Repository](https://github.com/meteorsurfer/supervised_ml_dengue_outbreak_prediction)
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 
